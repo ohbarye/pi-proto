@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/haikumatcher -Dhttp.port=${PORT}
