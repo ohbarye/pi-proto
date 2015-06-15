@@ -7,7 +7,7 @@ import views.html.*;
 
 public class Application extends Controller {
 
-    public Result index() {
+    public Result detail() {
         return ok(index.render("Your new application is ready."));
     }
 
